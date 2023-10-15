@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  background-image: url(https://i.pinimg.com/736x/f7/70/2e/f7702e60b6c476b7d3795a81f64b6c04.jpg);
+}
+
+.swiper {
+  width: 800px;
+  height: 600px;
+  background: #00e1ff;
+}
+
+.swiper-slide>img {
+  width: 100%;
+  height: 100%;
+}
